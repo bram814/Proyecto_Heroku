@@ -28,7 +28,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"/home/abraham/Escritorio/HEROKU/Fronted/src/env"
+$VIRTUAL_ENV = r"/home/abraham/Escritorio/Proyecto_Heroku/Fronted/src/env"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]
